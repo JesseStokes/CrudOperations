@@ -1,0 +1,10 @@
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\bin\Debug\CrudOperations2.exe.config
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\bin\Debug\CrudOperations2.exe
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\bin\Debug\CrudOperations2.pdb
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.csprojAssemblyReference.cache
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.CRUD_Operations.resources
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.Properties.Resources.resources
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.csproj.GenerateResource.cache
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.csproj.CoreCompileInputs.cache
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.exe
+C:\Users\jeste\Documents\Personal Programming Projects\CrudOperations2\CrudOperations2\obj\Debug\CrudOperations2.pdb
