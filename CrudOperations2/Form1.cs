@@ -18,7 +18,7 @@ namespace CrudOperations2
             InitializeComponent();
         }
 
-        SqlConnection con = new SqlConnection("Data Source =DESKTOP-71Q98DC;Initial Catalog =CrudOperations2;Integrated Security = True");
+        SqlConnection con = new SqlConnection("Data Source =DESKTOP-XXXXXXX;Initial Catalog =CrudOperations2;Integrated Security = True");
         public int StudentID;
 
         private void CRUD_Operations_Load(object sender, EventArgs e)
